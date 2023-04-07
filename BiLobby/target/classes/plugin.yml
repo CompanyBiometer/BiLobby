@@ -1,0 +1,5 @@
+name: BiLobby
+version: '1.0-SNAPSHOT'
+main: ru.bimine.bilobby.BiLobby
+authors: [biomer_]
+description: Plugin for BiMine
